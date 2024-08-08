@@ -1,7 +1,6 @@
 
 # Microsoft-Excel-Coffee-Shop-Analysis-Dashboard
-
-# Title: Coffee Shop Sales Analysis Dashboard
+Title: Coffee Shop Sales Analysis Dashboard
 
 # Objective:
 The Coffee Shop Sales Analysis dashboard is designed to provide comprehensive insights into the sales performance of a coffee shop. By analyzing key metrics such as total sales, customer footfall, and product category preferences, the dashboard helps business owners and managers identify trends, optimize inventory, and tailor marketing strategies to enhance overall profitability.
